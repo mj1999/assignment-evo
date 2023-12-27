@@ -1,0 +1,13 @@
+.display {
+  margin: auto;
+  width: 95%;
+  padding: 1%;
+}
+.about {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.fieldsInfo {
+  font-size: 1.2rem;
+  margin-left: 2vw;
+}
